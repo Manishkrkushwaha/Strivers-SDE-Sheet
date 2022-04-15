@@ -49,7 +49,7 @@ int main() {
 	
 	setZeroes(matrix);
 	
-	cout<<"\n\n\n\n";
+	cout<<"\n";
 	matrix={{0,1,1,0},{1,1,1,1},{1,1,1,1}};
 	
 	setZeroes(matrix);
