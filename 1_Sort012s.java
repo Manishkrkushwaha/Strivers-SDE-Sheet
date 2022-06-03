@@ -30,7 +30,6 @@ class Codechef
                     arr[high] = arr[mid];
                     arr[mid] = temp;
                     high--;
-                    mid++;
                     break;
                 }
             }
